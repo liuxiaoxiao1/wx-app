@@ -1,0 +1,3 @@
+<view catchtap="click">
+  <text>请点击我</text>
+</view>
