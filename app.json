@@ -1,6 +1,5 @@
 {
   "pages": [
-    "src/pages/login/login",
     "src/pages/feedback/bugs",
     "src/pages/firstPage/index",
     "src/pages/index/index",
@@ -35,7 +34,8 @@
     "selectedColor": "#e41d1d",
     "backgroundColor": "#ffffff",
     "position": "bottom",
-    "borderStyle": "#d7d7d7"
+    "borderStyle": "black"
   },
-  "debug": true
+  "debug": true,
+  "sitemapLocation": "sitemap25.json"
 }
